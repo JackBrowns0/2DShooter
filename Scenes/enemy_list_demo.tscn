@@ -1,3 +1,6 @@
 [gd_scene format=3 uid="uid://da4dwwb4ex1dd"]
 
+[ext_resource type="Script" uid="uid://3ugyamu37ujg" path="res://Scripts/EnemyListDemo.cs" id="1_u0x32"]
+
 [node name="EnemyListDemo" type="Node2D" unique_id=494894601]
+script = ExtResource("1_u0x32")

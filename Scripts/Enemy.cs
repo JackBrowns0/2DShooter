@@ -3,8 +3,6 @@ using System;
 
 public partial class Enemy : CharacterBody2D
 {
-    public bool IsAlive()
-    {
-        return true;
-    }
+    public string EnemyName = "Pretinieks";
+    public int Hp = 30;
 }
